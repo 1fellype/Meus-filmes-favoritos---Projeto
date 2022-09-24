@@ -1,6 +1,6 @@
- # NLW eSports 
+ # Desafio extra - NLW eSports 
 
- ![preview](screen_pag.png)
+ ![preview](./.github/preview.png)
  
  - Trilha Explorer
 
