@@ -1,6 +1,6 @@
  # NLW eSports 
 
- ![preview](.assets/1fellype.github.io_meus-filmes-favoritos_.png)
+ ![preview](screen_pag.png)
  
  - Trilha Explorer
 
