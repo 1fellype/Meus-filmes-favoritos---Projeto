@@ -1,12 +1,12 @@
  # NLW eSports 
 
- ![preview](./.github/preview.png)
+ ![preview](.assets/1fellype.github.io_meus-filmes-favoritos_.png)
  
  - Trilha Explorer
 
  Desafio extra do evento Next Level Week da Rocketseat.
 
- [Clique aqui para acessar! :)](https://1fellype.github.io/nlw-esports-explorer/)
+ [Clique aqui para acessar! :)](https://1fellype.github.io/meus-filmes-favoritos/)
 
 ## Tecnologias
 
